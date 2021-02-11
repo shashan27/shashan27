@@ -6,7 +6,7 @@
       <h3 align = "center">Programming Langauges</h3>
       <div align="center">
         <img width="82px" margin="10px" src="https://mynameisankit.github.io/portfolio/img/tech-stack/java.png" alt="Java"></img>
-        <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></img>
+        <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></img>
         <img width="82px" margin="10px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"></img>
         <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></img>  
         <img width="82px" margin="10px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle.png" alt="Dart"></img>
