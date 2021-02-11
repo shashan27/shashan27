@@ -9,7 +9,7 @@
         <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></img>
         <img width="82px" margin="10px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"></img>
         <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></img>  
-        <img width="82px" margin="10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fdart-logo&psig=AOvVaw2DMoEJNNAQ1VZU54R9XJ-s&ust=1613128621304000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC35_ra4e4CFQAAAAAdAAAAABAP" alt="Dart"></img>
+        <img width="82px" margin="10px" src="https://www.pngfind.com/pngs/m/144-1441576_dart-logo-png-transparent-dart-lang-png-download.png" alt="Dart"></img>
       </div>
     </li>
     <li>
