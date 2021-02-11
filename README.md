@@ -13,6 +13,7 @@
       </div>
     </li>
     <li>
+  <h3 align = "center">Technologies</h3>
       <div align = "center">
         <img width="82px" margin="10px" src="https://pngimg.com/uploads/android_logo/android_logo_PNG17.png"alt="Android"></img>
         <img width="82px" margin="10px" src="https://www.pngfind.com/pngs/m/185-1852592_nuff-said-show-me-the-code-flutter-logo.png"alt="Flutter"></img>
