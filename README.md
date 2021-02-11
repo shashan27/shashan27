@@ -14,9 +14,9 @@
     </li>
     <li>
       <div align = "center">
-        <img width="82px" margin="10px" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png"alt="Android"></img>
-        <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"alt="Flutter"></img>
-        <img width="82px" margin="10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase"></img>
+        <img width="82px" margin="10px" src="https://pngimg.com/uploads/android_logo/android_logo_PNG17.png"alt="Android"></img>
+        <img width="82px" margin="10px" src="https://www.pngfind.com/pngs/m/185-1852592_nuff-said-show-me-the-code-flutter-logo.png"alt="Flutter"></img>
+        <img width="82px" margin="10px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase"></img>
         <img width="82px" margin="10px" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png" alt="mysql"></img>
         <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite"></img>
       </div>
