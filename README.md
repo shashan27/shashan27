@@ -56,7 +56,7 @@
 <code>
   <h2>Position Of Responsibilities</h2>
   <ul>
-  <li>DSC NITP Mobile Developer Lead</li>
+  <li>DSC NITP Mobile Development Lead</li>
   </ul>
   <br /><br/>
 </code>
