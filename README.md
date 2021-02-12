@@ -68,7 +68,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashan27&show_icons=true&theme=light&line_height=27" alt="Shashank's Github Stats"/>
     </a>
     <a href="https://github.com/shashan27">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashan27&theme=light&hide_langs_below=1" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dig9074vijay&layout=compact&theme=vue" />
     </a>
   </div>
 </code>
