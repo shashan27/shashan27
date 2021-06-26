@@ -21,7 +21,7 @@
 ### - Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
-  <img width="82px" margin="10px" src="https://mynameisankit.github.io/portfolio/img/tech-stack/java.png" alt="Java"></img>
+  <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></img>
   <img width="82px" margin="10px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></img>  
