@@ -29,7 +29,7 @@
 <!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"alt="Android"></img>
   <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"alt="Flutter"></img>
-  <img width="82px" margin="10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase"></img>
+  <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></img>
   <img width="82px" margin="10px" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png" alt="mysql"></img>
   <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite"></img>
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
