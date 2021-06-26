@@ -8,7 +8,7 @@
 <a href="https://twitter.com/ShanksPandey"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/shashan27"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://m.facebook.com/shashan27"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://github.com/shashan27"><img height="30" src="https://img.shields.io/github/followers/belikeamitesh?label=Follow&style=social"></a>&nbsp;&nbsp;
+ <a href="https://github.com/shashan27"><img height="30" src="https://img.shields.io/github/followers/shashan27?label=Follow&style=social"></a>&nbsp;&nbsp;
  </p>
  
 
@@ -22,7 +22,6 @@
 
 <p align="center">
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></img>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" style="vertical-align:top; margin:4px">
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></img>  
   <img width="82px" margin="10px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle.png" alt="Dart"></img>
@@ -33,7 +32,6 @@
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></img>
   <img width="82px" margin="10px" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png" alt="mysql"></img>
   <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite"></img>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
    
 </code>
