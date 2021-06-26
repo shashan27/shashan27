@@ -23,12 +23,11 @@
 <p align="center">
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></img>
-  <img width="82px" margin="10px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></img>  
   <img width="82px" margin="10px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle.png" alt="Dart"></img>
 <!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> -->
 <!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
-  <img width="82px" margin="10px" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png"alt="Android"></img>
+  <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"alt="Android"></img>
   <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"alt="Flutter"></img>
   <img width="82px" margin="10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase"></img>
   <img width="82px" margin="10px" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png" alt="mysql"></img>
