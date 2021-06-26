@@ -26,7 +26,6 @@
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></img>  
-  <img width="82px" margin="10px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle.png" alt="Dart"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"alt="Android"></img>
   <img width="82px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"alt="Flutter"></img>
   <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></img>
