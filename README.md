@@ -1,6 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://shashan27.github.io/Portfolio_Website/#/">Shashank</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
 
 <p align='center'>
@@ -35,6 +36,14 @@
    
 </code>
 
+
+<!-- Profile View Count and GitStats -->
+
+![](https://komarev.com/ghpvc/?username=shashan27&style=flat)
+[![Github](https://img.shields.io/badge/-shashan27-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/shashan27)
+
+
+<div align="center">
 
 <code>
   <h2>Position Of Responsibilities</h2>
